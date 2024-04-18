@@ -1,7 +1,7 @@
 # HealthCounter
 
 
-
+## Summary📄
 ### "This app serves as a substitute for a fitness assistant at the gym, helping users with their exercises and recording data.
 ### It communicates with the server via HTTP and with devices via Bluetooth."
 
