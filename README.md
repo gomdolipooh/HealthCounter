@@ -5,6 +5,9 @@
 ### "This app serves as a substitute for a fitness assistant at the gym, helping users with their exercises and recording data.
 ### It communicates with the server via HTTP and with devices via Bluetooth."
 
+## youtube Link
+https://www.youtube.com/watch?v=jEPskT-H7Ow
+
 ## APP
 ![image](https://github.com/gomdolipooh/HealthCounter/assets/97873333/f0a19ea6-9fdb-40e8-9444-d8a1b1ff1d5b)
 
