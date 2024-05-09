@@ -5,7 +5,7 @@
 ### "This app serves as a substitute for a fitness assistant at the gym, helping users with their exercises and recording data.
 ### It communicates with the server via HTTP and with devices via Bluetooth."
 
-## youtube Link
+## Demonstration video
 https://www.youtube.com/watch?v=jEPskT-H7Ow
 
 ## APP
